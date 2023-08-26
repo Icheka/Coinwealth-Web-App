@@ -1,0 +1,29 @@
+@media screen and (min-width: 0px){
+    .site-brand {
+        width: 15% !important;
+        height: auto;
+        padding: 0px;
+    }
+    .color-white {
+        color: white !important;
+    }
+    .toggle-icon {
+        width: 240% !important;
+        height: auto;
+    }
+    #cheeseburger {
+        width: 100%;
+        height: auto;
+    }
+    #cheeseburger > img {
+        width: 100%;
+        height: auto;
+    }
+}
+@media screen and (max-width: 768px){
+    .site-brand {
+        width: 45% !important;
+        height: auto;
+        padding: 0px;
+    }
+}
